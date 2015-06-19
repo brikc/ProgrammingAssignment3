@@ -1,0 +1,5 @@
+### R Programming - Assignment 3
+
+The files in this repository are for programming assignment 3 from the Coursera Data Science Specialization Class - R Programming.
+
+Link to full assignemnt: https://class.coursera.org/rprog-004/assignment/view?assignment_id=7
